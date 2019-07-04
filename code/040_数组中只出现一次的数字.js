@@ -1,4 +1,4 @@
-// 数组中只出现一次的数字
+// 一个整型数组里除了两个数字之外，其他的数字都出现了两次。请写程序找出这两个只出现一次的数字。
 
 function FindNumsAppearOnce(array) {
   if (!array || array.length < 2) {
