@@ -1,0 +1,10 @@
+{
+  "name": "coding-interviews-js",
+  "version": "1.0.0",
+  "author": "nmchgx",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  }
+}
