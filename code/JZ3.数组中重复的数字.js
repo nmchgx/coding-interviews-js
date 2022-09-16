@@ -27,3 +27,7 @@ function duplicate(numbers) {
   }
   return -1;
 }
+
+module.exports = {
+  duplicate,
+};

@@ -29,3 +29,7 @@ function Find(target, array) {
   }
   return false;
 }
+
+module.exports = {
+  Find,
+};

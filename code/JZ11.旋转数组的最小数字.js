@@ -24,3 +24,7 @@ function minNumberInRotateArray(rotateArray) {
   }
   return rotateArray[left];
 }
+
+module.exports = {
+  minNumberInRotateArray,
+};

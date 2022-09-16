@@ -19,3 +19,7 @@ function Fibonacci(n) {
   }
   return sum;
 }
+
+module.exports = {
+  Fibonacci,
+};

@@ -32,3 +32,7 @@ function reConstructBinaryTree(pre, vin) {
   };
   return node;
 }
+
+module.exports = {
+  reConstructBinaryTree,
+};

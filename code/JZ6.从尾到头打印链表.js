@@ -21,3 +21,7 @@ function printListFromTailToHead(head) {
   }
   return list;
 }
+
+module.exports = {
+  printListFromTailToHead,
+};

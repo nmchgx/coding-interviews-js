@@ -8,3 +8,7 @@
 function replaceSpace(s) {
   return s.replace(/\s/g, '%20');
 }
+
+module.exports = {
+  replaceSpace,
+};
